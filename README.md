@@ -2,8 +2,8 @@
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
-## NAME : SUNDARESH K
-## REG.NO : 21222522O111
+## NAME : SHAJIVE KUMAR J 
+## REG.NO : 212225230258
 
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
